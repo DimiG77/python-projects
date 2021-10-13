@@ -1,7 +1,7 @@
 import pyautogui
 import time
 
-comments = "@elena_strantari @george.gazetis @ntos_"
+comments = "name_1, Name_2, Name_3"
 
 time.sleep(5)
 
