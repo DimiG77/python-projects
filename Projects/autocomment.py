@@ -24,5 +24,3 @@ for i in range(200):
         time.sleep(60)
 print(f"Program finished at: {current_time}")
 
-
-
